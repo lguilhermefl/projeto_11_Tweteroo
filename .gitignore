@@ -2,6 +2,8 @@ node_modules
 css
 assets
 .vscode
+.gitignore
 .wakatime-project
+.DS_Store
 index.html
 script.js
